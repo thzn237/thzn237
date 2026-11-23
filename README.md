@@ -60,33 +60,6 @@ Gosto principalmente de criar soluções que eliminem tarefas manuais, integrem 
 
 ---
 
-## 🚀 Projeto em destaque
-
-### 🛒 Acha-Promoções
-
-O **Acha-Promoções** é um sistema desenvolvido para automatizar a busca, análise e publicação de promoções.
-
-A ideia é transformar diferentes fontes de ofertas em um processo automatizado capaz de identificar, organizar e distribuir oportunidades de forma inteligente.
-
-### ⚙️ Principais recursos
-
-- 🔎 Monitoramento automatizado de ofertas
-- 🧠 Classificação automática de produtos
-- 📊 Sistema próprio de **Deal Score**
-- 💰 Integração com programas de afiliados
-- 🔗 Geração de links de afiliados
-- 🤖 Integração e publicação automática no Discord
-- 🗄️ Controle de dados através de SQLite
-- ♻️ Sistema anti-duplicação
-- ⚙️ Processamento automatizado com Python
-- 🔐 Integrações utilizando OAuth 2.0
-
-### 🧰 Tecnologias utilizadas
-
-`Python` `Discord.py` `SQLite` `APIs REST` `OAuth 2.0` `Git`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
