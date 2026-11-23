@@ -1,16 +1,144 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou o Thiago Vieira</h1>
 
-<!--
-**thzn237/thzn237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  💻 Desenvolvedor & Analista de TI
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  🐍 Python • ⚙️ Automações • 🔗 APIs • 🤖 Bots • 🌐 Web
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Transformando ideias e tarefas repetitivas em soluções simples, úteis e automatizadas.
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou apaixonado por tecnologia, desenvolvimento e automação.
+
+Gosto principalmente de criar soluções que eliminem tarefas manuais, integrem diferentes sistemas e resolvam problemas reais utilizando tecnologia.
+
+- 🐍 Desenvolvimento e automações com **Python**
+- 🤖 Desenvolvimento de **Bots**
+- 🔗 Integração de sistemas através de **APIs**
+- ⚙️ Automação de tarefas e processos
+- 🌐 Desenvolvimento de **sites e aplicações web**
+- 🗄️ Bancos de dados com **SQLite**
+- 🔐 Integrações utilizando **OAuth 2.0**
+- 🚀 Desenvolvimento de projetos próprios e soluções personalizadas
+- 📚 Sempre aprendendo novas tecnologias
+
+---
+
+## 💻 Linguagens
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</div>
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</div>
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🛒 Acha-Promoções
+
+O **Acha-Promoções** é um sistema desenvolvido para automatizar a busca, análise e publicação de promoções.
+
+A ideia é transformar diferentes fontes de ofertas em um processo automatizado capaz de identificar, organizar e distribuir oportunidades de forma inteligente.
+
+### ⚙️ Principais recursos
+
+- 🔎 Monitoramento automatizado de ofertas
+- 🧠 Classificação automática de produtos
+- 📊 Sistema próprio de **Deal Score**
+- 💰 Integração com programas de afiliados
+- 🔗 Geração de links de afiliados
+- 🤖 Integração e publicação automática no Discord
+- 🗄️ Controle de dados através de SQLite
+- ♻️ Sistema anti-duplicação
+- ⚙️ Processamento automatizado com Python
+- 🔐 Integrações utilizando OAuth 2.0
+
+### 🧰 Tecnologias utilizadas
+
+`Python` `Discord.py` `SQLite` `APIs REST` `OAuth 2.0` `Git`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thzn237&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzn237&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+Estou aberto a **freelas, projetos e colaborações** envolvendo:
+
+🐍 Python  
+⚙️ Automações  
+🤖 Bots  
+🔗 APIs e Integrações  
+🌐 Sites e soluções Web  
+
+Se você possui uma tarefa repetitiva, processo manual ou uma ideia que pode ser transformada em software, vamos conversar. 🚀
+
+---
+
+## 🌐 Redes Sociais
+
+<div align="center">
+
+  <a href="https://discord.com/users/947162619326914591">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <a href="mailto:tvieiradegois28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.instagram.com/thzn.vx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/thiagovgois/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Código, automação e tecnologia para transformar ideias em soluções.
+
+⭐ Obrigado pela visita!
+
+</div>
