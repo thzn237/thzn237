@@ -62,21 +62,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thzn237&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzn237&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-Estou aberto a **freelas, projetos e colaborações** envolvendo:
-
-🐍 Python  
-⚙️ Automações  
-🤖 Bots  
-🔗 APIs e Integrações  
-🌐 Sites e soluções Web  
-
-Se você possui uma tarefa repetitiva, processo manual ou uma ideia que pode ser transformada em software, vamos conversar. 🚀
 
 ---
 
