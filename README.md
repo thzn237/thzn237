@@ -8,10 +8,6 @@
   🐍 Python • ⚙️ Automações • 🔗 APIs • 🤖 Bots • 🌐 Web
 </p>
 
-<p align="center">
-  Transformando ideias e tarefas repetitivas em soluções simples, úteis e automatizadas.
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
