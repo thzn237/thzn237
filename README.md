@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Thiago Vieira</h1>
+<h1 align="center">Opaaaa, Aqui é o TH! 🤪</h1>
 
 <h3 align="center">
   💻 Desenvolvedor & Analista de TI
@@ -88,9 +88,5 @@
 ---
 
 <div align="center">
-
-### 🚀 Código, automação e tecnologia para transformar ideias em soluções.
-
 ⭐ Obrigado pela visita!
-
 </div>
