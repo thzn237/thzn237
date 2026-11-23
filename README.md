@@ -16,10 +16,6 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou apaixonado por tecnologia, desenvolvimento e automação.
-
-Gosto principalmente de criar soluções que eliminem tarefas manuais, integrem diferentes sistemas e resolvam problemas reais utilizando tecnologia.
-
 - 🐍 Desenvolvimento e automações com **Python**
 - 🤖 Desenvolvimento de **Bots**
 - 🔗 Integração de sistemas através de **APIs**
